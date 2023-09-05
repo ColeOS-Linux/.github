@@ -6,6 +6,8 @@ shoutout to ezarcher by eznix for the iso kit! https://sourceforge.net/projects/
 
 ---
 
-Gen 1 Source: https://github.com/ColeOS-Linux/gen1-source 
+Gen 1 Source: https://github.com/ColeOS-Linux/gen1-source
+
+Gen 2 Source: https://github.com/ColeOS-Linux/source-gen2
 
 Gnome Edition Source: https://github.com/ColeOS-Linux/source-gnome
