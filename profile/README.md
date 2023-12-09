@@ -1,5 +1,10 @@
 # Welcome to the ColeOS Github! 
 
+
+# (note, ColeOS has been discontinued, repos will no longer be maintained)
+
+---
+
 here you can find source code for all versions & more!
 
 shoutout to ezarcher by eznix for the iso kit! https://sourceforge.net/projects/ezarch/
